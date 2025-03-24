@@ -1,0 +1,6 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment variables (sensitive data)
+.env
+.DS_Store  # (Mac-only, hides system files)
